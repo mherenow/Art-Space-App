@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="self_portrait_with_straw_hat">Self-Portrait with a Straw Hat</string>
+    <string name="self_portrait_with_straw_hat_year">1887</string>
+    <string name="self_portrait_with_straw_hat_artist">Vincent van Gogh</string>
+    <string name="hans_holbein">Herman von Wedigh III</string>
+    <string name="hans_holbein_year">1532</string>
+    <string name="hans_holbein_artist">Hans Holbein the Younger</string>
+    <string name="the_milkmaid">The Milkmaid</string>
+    <string name="the_milkmaid_year">1658</string>
+    <string name="the_milkmaid_artist">Johannes Vermeer</string>
+    <string name="whistlers_mother">Arrangement in Grey and Black No.1</string>
+    <string name="whistlers_mother_year">1871</string>
+    <string name="whistlers_mother_artist">James McNeill Whistler</string>
+    <string name="englishman_at_moulin_rougue">The Englishman at the Moulin Rouge</string>
+    <string name="englishman_at_moulin_rougue_year">1892</string>
+    <string name="englishman_at_moulin_rougue_artist">Henri de Toulouse-Lautrec</string>
+    <string name="ivan_the_terrible">Ivan the Terrible and His Son Ivan</string>
+    <string name="ivan_the_terrible_year">1884</string>
+    <string name="ivan_the_terrible_artist">Ilya Repin</string>
+    <string name="night_watch">The Night Watch</string>
+    <string name="night_watch_year">1642</string>
+    <string name="night_watch_artist">Rembrandt van Rijn</string>
+    <string name="school_of_athens">School of Athens</string>
+    <string name="school_of_athens_year">1511</string>
+    <string name="school_of_athens_artist">Raphael</string>
+    <string name="american_gothic">American Gothic</string>
+    <string name="american_gothic_year">1930</string>
+    <string name="american_gothic_artist">Grant Wood</string>
+    <string name="las_meninas">Las Meninas</string>
+    <string name="las_meninas_year">1656</string>
+    <string name="las_meninas_artist">Diego Velázquez</string>
+</resources>
